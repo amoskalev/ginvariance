@@ -1,4 +1,4 @@
-*"On genuine invariance learning without weight-tying"* (2023). Artem Moskalev, Anna Sepliarskaia, Erik J. Bekkers, Arnold Smeulders in *ICML workshop on Topology, Algebra, and Geometry in Machine Learning*, [[paper]](https://openreview.net/pdf?id=yYEgfbCVrR)
+*"On genuine invariance learning without weight-tying"* (2023). Artem Moskalev, Anna Sepliarskaia, Erik J. Bekkers, Arnold Smeulders in *ICML workshop on Topology, Algebra, and Geometry in Machine Learning*, [[arXiv]](https://arxiv.org/abs/2308.03904)
 
 
 ```bibtex
